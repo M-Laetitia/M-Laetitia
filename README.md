@@ -1,3 +1,3 @@
-![GitHub banner](M-Laetitia/Pictures/banner_github.png)
+![GitHub banner](/Pictures/banner_github.png)
 
 ### Hi ! Welcome on my profile.
