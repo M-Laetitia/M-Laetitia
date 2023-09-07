@@ -1,3 +1,5 @@
 ![GitHub banner](/Pictures/banner_github.png)
 
-### Hi ! Welcome on my profile.
+<p align="center">
+Hi ! Welcome on my profile.
+</p>
