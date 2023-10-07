@@ -10,7 +10,17 @@
 <details open>
 <summary> Web Development</summary>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML3-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23383838?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=javascript&logoColor=white)
+![Laragon](https://img.shields.io/badge/LARAGON-%230E83CD?style=for-the-badge&logo=laragon&logoColor=white)
+![MySql](https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/VISUAL_STUDIO_CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
 
 </details>
 
@@ -22,10 +32,10 @@
 ![Adobe InDesign](https://img.shields.io/badge/ADOBE_INDESIGN-%23E71B60?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/ADOBE_ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-![Adobe Figma](https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-![Adobe Blender](https://img.shields.io/badge/BLENDER-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/BLENDER-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
 
 
