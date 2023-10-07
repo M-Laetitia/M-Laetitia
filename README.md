@@ -1,8 +1,8 @@
 ![GitHub banner](/Pictures/banner_github.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=62E1FD&center=true&vCenter=true&repeat=false&width=1280&lines=Hi+there%2C+I'm+Laetitia+!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=E71B60&center=true&vCenter=true&multiline=true&repeat=false&width=1280&height=150&lines=Welcome+on+my+profile+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=62E1FD&center=true&vCenter=true&repeat=false&width=1280&lines=Hi+there%2C+I'm+Laetitia+!✨)](https://git.io/typing-svg)
+
 
 
 ##  Skills
