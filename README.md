@@ -17,7 +17,16 @@
 <details>
 <summary> Design</summary>
 
-[![My Skills](https://skillicons.dev/icons?i=photoshop,indesign,illustrator,blender,figma)](https://skillicons.dev)
+
+![Adobe Photoshop](https://img.shields.io/badge/ADOBE_PHOTOSHOP-%2357C7E0?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/ADOBE_INDESIGN-%23E71B60?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/ADOBE_ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+![Adobe Figma](https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+![Adobe Blender](https://img.shields.io/badge/BLENDER-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+
 
 
 </details>
