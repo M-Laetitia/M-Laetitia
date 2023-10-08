@@ -16,6 +16,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML3-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23383838?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![BOOTSRAP](https://img.shields.io/badge/BOOTSTRAP-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=javascript&logoColor=white)
 ![Laragon](https://img.shields.io/badge/LARAGON-%230E83CD?style=for-the-badge&logo=laragon&logoColor=white)
@@ -33,10 +35,12 @@
 ![Adobe Photoshop](https://img.shields.io/badge/ADOBE_PHOTOSHOP-%2357C7E0?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/ADOBE_INDESIGN-%23E71B60?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/ADOBE_ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/ADOBE_AFTER_EFFECTS-%239999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Blender](https://img.shields.io/badge/BLENDER-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+
 
 
 </details>
