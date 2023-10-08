@@ -41,7 +41,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Laetitia&layout=compact&border_color=E71B60&theme=nightowl&bg_color=0F1534&title_color=E71B60&text_color=57C7E0)](https://github.com/anuraghazra/github-readme-stats)
 
-#  Stats
+# ![Statistiques logo](/Pictures/stats_logo.png)  Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=M-Laetitia&theme=python-dark&date_format=j%20M%5B%20Y%5D&background=0F1534&stroke=E71B60&border=E71B60&ring=E71B60&currStreakNum=57C7E0&sideNums=57C7E0&fire=E0B013&currStreakLabel=CDDCE0&sideLabels=CDDCE0&dates=57C7E0)](https://git.io/streak-stats)
 
 
