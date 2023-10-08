@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=62E1FD&center=true&vCenter=true&repeat=true&width=1280&lines=Hi+there%2C+I'm+Laetitia+!✨)](https://git.io/typing-svg)
 
+# About Me
+🌟 Actually in training at ELAN Formation in Strasbourg, France.  
+🔥 Right now, I'm working on Php and JavaScript little projects.  
+🌱 I"m currently learning Jquery.  
+🔮 In my free time I  like to create colorful, fantasy low poly scenery on Blender.  
 
 # ![skills logo](/Pictures/skills_logo.png)  Skills
 
