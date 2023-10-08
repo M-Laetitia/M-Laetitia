@@ -5,8 +5,8 @@
 
 # ![skills logo](/Pictures/skills_logo.png)  Skills
 
-<details open>
-<summary> Web Development</summary>
+<details>
+<summary>  <h3> Web Development </h3> </summary>
 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML3-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +17,6 @@
 ![MySql](https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/VISUAL_STUDIO_CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 
 
 </details>
