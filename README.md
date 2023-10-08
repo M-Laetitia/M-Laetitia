@@ -6,7 +6,7 @@
 # ![skills logo](/Pictures/skills_logo.png)  Skills
 
 <details>
-<summary>  <h3> Web Development </h3> </summary>
+<summary>  <h2> Web Development </h2> </summary>
 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML3-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
