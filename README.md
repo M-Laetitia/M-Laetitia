@@ -18,12 +18,12 @@
 
 ![VSCode](https://img.shields.io/badge/VISUAL_STUDIO_CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
 </details>
 
-<details>
-<summary> Design</summary>
 
+<details> 
+<summary>  <h2>  Design </h2>   </summary> 
+  
 
 ![Adobe Photoshop](https://img.shields.io/badge/ADOBE_PHOTOSHOP-%2357C7E0?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/ADOBE_INDESIGN-%23E71B60?style=for-the-badge&logo=adobeindesign&logoColor=white)
@@ -31,9 +31,7 @@
 
 ![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ![Blender](https://img.shields.io/badge/BLENDER-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-
 
 
 </details>
