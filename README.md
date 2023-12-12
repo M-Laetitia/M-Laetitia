@@ -17,9 +17,11 @@
 ![HTML5](https://img.shields.io/badge/HTML3-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23383838?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![BOOTSRAP](https://img.shields.io/badge/BOOTSTRAP-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&color=%23CC6699)
 
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=javascript&logoColor=white)
+![SYMFONY](https://img.shields.io/badge/SYMFONY-white?style=for-the-badge&logo=symfony&logoColor=white&color=%23000000)
 ![Laragon](https://img.shields.io/badge/LARAGON-%230E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 ![MySql](https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
