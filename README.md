@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23383838?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![BOOTSRAP](https://img.shields.io/badge/BOOTSTRAP-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&color=%23CC6699)
-
+![JQUERY](https://img.shields.io/badge/JQUERY-%230769AD?style=for-the-badge&logo=Jquery&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=javascript&logoColor=white)
 ![SYMFONY](https://img.shields.io/badge/SYMFONY-white?style=for-the-badge&logo=symfony&logoColor=white&color=%23000000)
@@ -26,6 +26,7 @@
 ![MySql](https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/VISUAL_STUDIO_CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WORDPRESS](https://img.shields.io/badge/WORDPRESS-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 </details>
 
