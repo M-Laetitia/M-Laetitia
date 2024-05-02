@@ -44,8 +44,6 @@
 
 ![Blender](https://img.shields.io/badge/BLENDER-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
-
-
 </details>
 
 
