@@ -5,7 +5,7 @@
 # About Me
 🌟 Actually in training at ELAN Formation in Strasbourg, France.  
 🔥 Right now, I'm working on Php and JavaScript little projects.  
-🌱 I"m currently learning React.  
+🌱 I"m currently learning React & Redux.  
 🔮 In my free time I  like to create colorful, fantasy low poly scenery on Blender.  
 
 # ![skills logo](/Pictures/skills_logo.png)  Skills
